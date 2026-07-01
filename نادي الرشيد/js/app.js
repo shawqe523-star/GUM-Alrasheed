@@ -1,0 +1,1 @@
+function go(m){alert(m)}
